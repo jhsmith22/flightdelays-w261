@@ -1,5 +1,5 @@
 ### Context
-This is a group project conducted for course w261: Machine Learning at Scale at the University of California Berkeley in Summer 2023. This project develops a machine learning model that predicts flight delays based on historical flight, airport station, and weather data spanning five years from 2015-2019 in the United States.
+This is a group project conducted for course w261: Machine Learning at Scale at the University of California Berkeley in Summer 2023. This project develops a machine learning model that predicts flight delays based on historical flight, airport station, and weather data spanning five years from 2015-2019 in the United States. We use DataBricks/pyspark in an Azure cloud computing environment.
 
 ### Group members
 Jessica Stockham, Chase Madison, Kisha Kim, Eric Danforth
